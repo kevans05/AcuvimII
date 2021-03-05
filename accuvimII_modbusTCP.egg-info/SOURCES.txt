@@ -1,0 +1,7 @@
+README.md
+setup.py
+accuvimII_modbusTCP.egg-info/PKG-INFO
+accuvimII_modbusTCP.egg-info/SOURCES.txt
+accuvimII_modbusTCP.egg-info/dependency_links.txt
+accuvimII_modbusTCP.egg-info/requires.txt
+accuvimII_modbusTCP.egg-info/top_level.txt

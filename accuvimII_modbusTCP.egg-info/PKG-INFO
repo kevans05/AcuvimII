@@ -1,0 +1,15 @@
+Metadata-Version: 1.2
+Name: accuvimII-modbusTCP
+Version: 0.0.1
+Summary: A package to read a accuvimII threw modbusTCP
+Home-page: https://github.com/kevans05/AcuvimII_Python
+Author: Kyle Evans
+Author-email: evans.kyle@protonmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/kevans05/AcuvimII_Python/issues
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
